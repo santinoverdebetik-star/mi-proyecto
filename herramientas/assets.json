@@ -1,0 +1,15 @@
+{"pools":{
+"riese":{"q":["Project Riese tunnels","Osówka underground","Włodarz Riese tunnel","Rzeczka Riese","Książ castle underground","Riese Owl Mountains tunnel entrance","Sowie Mountains Nazi tunnels"],"cats":["Riese project","Osówka","Rzeczka","Włodarz","Książ Castle","Ksiaz Castle"],"max":14,"min_w":900,"dest":"fotos"},
+"ludwikowice":{"q":["Ludwikowice Kłodzkie","Wenceslas mine Ludwikowice","Kopalnia Wacław Ludwikowice","Ludwikowice Henge ruins","Nowa Ruda coal mine","Sowia mine Ludwikowice"],"cats":["Ludwikowice Kłodzkie","Nowa Ruda"],"max":8,"min_w":900,"dest":"fotos"},
+"grossrosen":{"q":["Gross-Rosen concentration camp","Gross-Rosen museum Rogoznica","Rogoźnica quarry Gross-Rosen","Gross-Rosen memorial"],"cats":["Gross-Rosen concentration camp","Gross-Rosen Museum"],"max":8,"min_w":900,"dest":"fotos"},
+"kammler":{"q":["Hans Kammler","Mittelbau-Dora tunnel","Mittelwerk V-2","Peenemünde V-2","V-2 rocket launch 1944","V-2 rocket Bundesarchiv"],"cats":["Hans Kammler","Mittelbau-Dora","V-2 rocket","Peenemünde"],"max":12,"min_w":900,"dest":"fotos"},
+"sporrenberg":{"q":["Jakob Sporrenberg","Lublin 1943 SS","Majdanek","Mokotów prison Warsaw","Himmler 1943 Lublin"],"cats":["Jakob Sporrenberg"],"max":6,"min_w":800,"dest":"fotos"},
+"paperclip":{"q":["Wernher von Braun 1946","Operation Paperclip German scientists","Fort Bliss von Braun","Redstone Arsenal Huntsville","Marshall Space Flight Center von Braun 1960"],"cats":["Operation Paperclip","Wernher von Braun"],"max":10,"min_w":900,"dest":"fotos"},
+"nuclear":{"q":["Werner Heisenberg","Kurt Diebner","Farm Hall Godmanchester","Haigerloch reactor","Otto Hahn","Walther Gerlach","Alsos Mission"],"cats":["Werner Heisenberg","Haigerloch","Farm Hall"],"max":10,"min_w":800,"dest":"fotos"},
+"libros":{"q":["Le Matin des magiciens Pauwels Bergier","Louis Pauwels","Jacques Bergier","Nick Cook Hunt for Zero Point","Gallimard 1960 book cover"],"cats":["Louis Pauwels","Jacques Bergier"],"max":4,"min_w":500,"dest":"fotos"},
+"oro":{"q":["Wałbrzych railway 2015","Wałbrzych Gold Train","Świebodzice railway station","Książ castle Wałbrzych","Wałbrzych Główny railway station","Wałbrzych 2015 treasure hunters"],"cats":["Wałbrzych","Świebodzice"],"max":8,"min_w":900,"dest":"fotos"},
+"oculto":{"q":["Wewelsburg castle","Thule Society","Himmler Wewelsburg","Nazi occultism","Heinrich Himmler 1939"],"cats":["Wewelsburg"],"max":6,"min_w":800,"dest":"fotos"},
+"silesia":{"q":["Lower Silesia landscape","Owl Mountains Poland","Sowie Mountains","Silesia 1945 ruins","Breslau 1945","Wałbrzych mine"],"cats":["Owl Mountains","Lower Silesian Voivodeship"],"max":10,"min_w":1100,"dest":"fotos"},
+"nazi":{"q":["Albert Speer Bundesarchiv","Organisation Todt Bundesarchiv","Bundesarchiv SS officers 1944","Adolf Hitler 1944 Bundesarchiv","Wunderwaffe Bundesarchiv","Me 262 Bundesarchiv"],"cats":["Organisation Todt","Albert Speer"],"max":12,"min_w":800,"dest":"fotos"},
+"fin45":{"q":["Berlin May 1945 ruins","Red Army Silesia 1945","German surrender May 1945","Nuremberg trials 1946","London Cage interrogation"],"cats":["Berlin 1945"],"max":8,"min_w":900,"dest":"fotos"}
+}}
